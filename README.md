@@ -35,3 +35,7 @@ pip install pygame
 ```bash
 python starter.py
 ```
+
+## 📽️ 介紹影片
+
+🎬 [點我觀看介紹影片](https://youtu.be/U_QudS27M_w?si=9SLfyZ6nPWIpepc6)
