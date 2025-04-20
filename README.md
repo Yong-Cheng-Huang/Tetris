@@ -27,8 +27,6 @@
 ## 🛠 安裝與執行
 
 ### 1. 安裝 Pygame
-
-請先安裝 Pygame 套件：
 ```bash
 pip install pygame
 ```
